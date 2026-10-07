@@ -1,0 +1,16 @@
+{
+    "incidentId": "INC-2026-8841",
+    "timestamp": "2026-10-07T11:15:00Z",
+    "sourcePlatform": "Microsoft-Intune-MDM",
+    "affectedAsset": {
+        "hostname": "NW-MAC-0941",
+        "os": "macOS 15.0.1",
+        "department": "Finance-Engineering"
+    },
+    "alertDetails": {
+        "severity": "CRITICAL",
+        "policyViolation": "Vulnerability-CVE-2024-43093",
+        "description": "Android/macOS Framework components allow a local attacker to execute arbitrary code or bypass FileVault encryption boundaries via cryptographic token manipulation.",
+        "errorCode": "ERR_MDM_COMPLIANCE_FAILED_0x442"
+    }
+}
