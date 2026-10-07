@@ -11,7 +11,7 @@ An operational CLI infrastructure utility that ingests machine-readable system l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/HexieB/runbook-generator.git
    cd automated-it-runbook-generator
    ```
 
