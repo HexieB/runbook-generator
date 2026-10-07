@@ -12,7 +12,7 @@ An operational CLI infrastructure utility that ingests machine-readable system l
 1. Clone the repository:
    ```bash
    git clone https://github.com/HexieB/runbook-generator.git
-   cd automated-it-runbook-generator
+   cd runbook-generator
    ```
 
 2. Establish your isolated virtual environment layer:
